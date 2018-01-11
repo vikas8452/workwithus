@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">workwithus</string>
+    <string name="signuptxt">Get Registered In Just One Single Step</string>
+    <string name="freedetails">It\'s absolutely free to sign up - so join our network today!</string>
+    <string name="click_here_to_start">Click here to start</string>
+    <string name="Inventory_management">INVENTORY MANAGEMENT</string>
+    <string name="free_to_join">FREE TO JOIN</string>
+    <string name="manage_details">It encourage guest to book your property quicker</string>
+    <string name="Instant_booking">INSTANT BOOKING</string>
+    <string name="Instant_details">Guest will able to book your property easier from anywhere anytime!</string>
+    <string name="property_signup">PROPERTY &amp; CONTACT DETAILS</string>
+    <string name="property_name">Property name</string>
+    <string name="total_bedrooms">Total number of bedrooms</string>
+    <string name="total_beds">Number of beds (total occupancy)</string>
+    <string name="address_1">Address 1</string>
+    <string name="address_2">Address 2</string>
+    <string name="state">State (for ex. U.P)</string>
+    <string name="post_code">Post Code / Zip Code</string>
+    <string name="country">Country</string>
+    <string name="city">City</string>
+    <string name="contact_details">Contact Details</string>
+    <string name="contact_name">Contact name</string>
+    <string name="manager_email">Manager e-mail address</string>
+    <string name="booking_email">Booking e-mail address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="phone_number2">Additional contact number</string>
+    <string name="sign_up">Sign-Up</string>
+    <string name="terms_condition">By Clicking sign-up you are agreeing to our terms &amp; conditions </string>
+
+
+</resources>

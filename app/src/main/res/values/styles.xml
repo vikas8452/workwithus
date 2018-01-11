@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="colorfreetojoin">
+
+        <item name="android:textColor">#ff8c00</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+    <style name="btnbackground">
+        <item name="android:background">#ff8c00</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+    <style name="detailhadding">
+
+        <item name="android:textSize">18sp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:layout_width">364dp</item>
+        <item name="android:layout_height">wrap_content</item>
+
+    </style>
+    <style name="space_between">
+
+        <item name="android:layout_marginTop">5dp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+    </style>
+
+</resources>
